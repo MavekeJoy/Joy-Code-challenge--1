@@ -1,1 +1,1 @@
-# Joy-Code-challenge--1
+# Joy-Code-challenge-1
